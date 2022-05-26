@@ -17,5 +17,5 @@
 
 | Plugin Name  | Description |
 | ------------- | ----------- |
-| VanillaX | Added more vanilla items |
-| iLand | Allows players to buy land |
+| [VanillaX](https://github.com/CLADevs/VanillaX/releases) | Added more vanilla items |
+| [iLand](https://github.com/David-pm-pl/iLand/releases) | Allows players to buy land |
